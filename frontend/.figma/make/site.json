@@ -1,0 +1,10 @@
+{
+  "description": "Helps AICTE institutions and administrators manage, validate, and verify student records using APAAR IDs, with analytics, anomaly review, and consent controls.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
